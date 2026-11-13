@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 16,
+  "catalogVersion": 23,
   "presets": [
     {
       "category": "natural",
@@ -631,6 +631,45 @@
         "shadowWarmth": 0,
         "highlightWarmth": 0,
         "coherence": 0
+      }
+    },
+    {
+      "category": "cinema",
+      "order": 1005,
+      "enabled": true,
+      "preset": {
+        "id": "45F150D1-2B78-4B29-970D-3E42AE279033",
+        "version": 1,
+        "name": "Cine Chrome",
+        "exposure": 0,
+        "temperature": 480,
+        "tint": -8,
+        "highlights": 0.988,
+        "shadows": -0.04,
+        "contrast": 1.8464,
+        "saturation": 0.8,
+        "vibrance": -0.12,
+        "curveBlack": 0.0,
+        "curveShadows": 0.155,
+        "curveMidtones": 0.5588,
+        "curveHighlights": 0.8722,
+        "curveWhite": 1,
+        "redHue": 0,
+        "redSaturation": 0.2,
+        "redLuminance": -0.04,
+        "greenHue": 5,
+        "greenSaturation": -0.5,
+        "greenLuminance": 0.018,
+        "blueHue": -28.528,
+        "blueSaturation": -0.2,
+        "blueLuminance": 0.2153,
+        "diffusion": 0,
+        "grain": 0,
+        "vignette": 0,
+        "rawSharpness": 0,
+        "shadowWarmth": 0,
+        "highlightWarmth": 0.02,
+        "coherence": 0.06
       }
     }
   ]
