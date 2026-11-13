@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 23,
+  "catalogVersion": 24,
   "presets": [
     {
       "category": "natural",
@@ -635,7 +635,7 @@
     },
     {
       "category": "cinema",
-      "order": 1005,
+      "order": 60,
       "enabled": true,
       "preset": {
         "id": "45F150D1-2B78-4B29-970D-3E42AE279033",
